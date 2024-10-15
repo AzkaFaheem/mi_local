@@ -1,4 +1,4 @@
-# Micribioformatics mock project 
+# Microbioformatics mock project 
 
 Author: Azka Faheem <br>
 Email: AzJk0197@gmail.com <br>
